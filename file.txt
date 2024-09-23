@@ -1,3 +1,3 @@
 Este é um exemplo de um ficheiro de texto. 
-- File1.
+- File.
 
